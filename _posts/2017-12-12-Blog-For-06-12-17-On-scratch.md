@@ -64,19 +64,19 @@ th {
     <td>Yes - I struggled making the rows equal so I asked my dad whether he knew what was causing the problem he wasn’t quite sure and thought maybe I needed another chunk of code.</td>
   </tr>
   <tr>
-    <td>Independence</td>
+    <th>Independence</th>
     <td>Yes - Towards the end we needed to implement code that we had to think of ourselves to finish off and make it better working.</td>
   </tr>
   <tr>
-    <td>Reflecting</td>
+    <th>Reflecting</th>
     <td>Yes - There were mistakes I made previously like adding in unnecessary coding to the work that was running really well and as a result making it worse. I decided not to do this to that heavy extent. </td>
   </tr>
   <tr>
-    <td>Engagement</td>
+    <th>Engagement</th>
     <td>Yes - we were given a document to help us and I read through it all to help me with my skills and work rather than just copying the pictures.</td>
   </tr>
   <tr>
-    <td>What could have gone better in your learning?</td>
+    <th>What could have gone better in your learning?</th>
     <td></td>
   </tr>
   <tr>
@@ -84,7 +84,7 @@ th {
     <td></td>
   </tr>
   <tr>
-    <td>What changes do you need to make to improve your learning next time?</td>
+    <th>What changes do you need to make to improve your learning next time?</th>
     <td></td>
   </tr>
   <tr>

@@ -16,7 +16,13 @@
 html {
   font-size: 100%;
 }
- 
+ div {
+    background-color: lightblue;
+    width: 50%;
+    border: 8px solid orange;
+    padding: 25px;
+    margin: 25px;
+}
 table {
 border-collapse: collapse;
 }
